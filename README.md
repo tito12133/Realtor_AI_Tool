@@ -1,3 +1,9 @@
+![1000003126](https://github.com/user-attachments/assets/e8a87e8f-81ec-4ded-a8a7-735acb36ac0e)![1000003127](https://github.com/user-attachments/assets/ca0043e4-db78-463b-a592-c26af9214bbf)![1000003128]![1000003131](https://github.com/user-attachments/assets/3c245c75-f71b-4db2-801a-c6b55531765e)
+(https://github.com/user-attachments/assets/9b8168b9-e963-4acb-abb2-9a230238a7a3)![10![1000003130](https://github.com/user-attachments/assets/a322bf51-7d21-4350-b675-d439c91971e4)
+00003129](https://github.com/user-attachments/assets/b09792ab-ac63-4f61-b895-7694db3bfa33)
+
+
+
 # Realtor_AI_Tool
 Enterprise-grade Realtor AI tool designed for luxury brokerages. Includes AI lead scoring, property portfolio management, automated marketing content, and a real-estate-focused AI assistant. Premium black-and-gold interface with editorial typography and smooth, OS-style feedback animations.
 Realtor AI Tool – Enterprise Edition (Solution4U Edition)
